@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gramerly/static/css/main.dc4d6ff2.css",
+    "main.js": "/gramerly/static/js/main.f1e8547d.js",
+    "static/js/453.4487d271.chunk.js": "/gramerly/static/js/453.4487d271.chunk.js",
+    "index.html": "/gramerly/index.html",
+    "main.dc4d6ff2.css.map": "/gramerly/static/css/main.dc4d6ff2.css.map",
+    "main.f1e8547d.js.map": "/gramerly/static/js/main.f1e8547d.js.map",
+    "453.4487d271.chunk.js.map": "/gramerly/static/js/453.4487d271.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.f1e8547d.js"
+  ]
+}
